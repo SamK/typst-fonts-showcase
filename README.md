@@ -2,6 +2,8 @@
 
 A Typst template that showcases all the fonts installed on your system.
 
+![Screenshot](/assets/screenshot.jpg)
+
 ## Usage
 
 The shell script [build.sh](build.sh) file generates the PDF file.
